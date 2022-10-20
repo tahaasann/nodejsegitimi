@@ -1,0 +1,2 @@
+# nodejsegitimi
+Patikayla nodejs öğreniyorum
